@@ -158,6 +158,10 @@ ollama-vault uses this same layout. When multiple models share layers (which is 
 
 During copy operations, each blob is verified against its sha256 digest to ensure integrity.
 
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute and how to sign the Contributor License Agreement.
+
 ## License
 
 MIT License — Copyright (c) 2026 Paul Arlott
